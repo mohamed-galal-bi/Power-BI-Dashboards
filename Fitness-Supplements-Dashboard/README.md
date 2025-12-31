@@ -11,12 +11,20 @@ This project analyzes data for a fitness & supplements company to track business
 
 ## Key KPIs
 - Revenue
+- Return Value
 - Profit
 - Orders
+- Return Orders
 - Quantity Sold
+- Return Quantity
 - Customers
+- Return Customers
+- Customers Without Orders
+- Cost
+- Average Order Value (AOV)
 - Year-over-Year (YoY) Variance
 
+ 
 ## Tools Used
 - Power BI
 - DAX

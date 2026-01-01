@@ -43,10 +43,10 @@ This project analyzes data for a fitness & supplements company to track business
 <img src="images/Location .png" width="800"/>
 
 ### Customer Analysis
-<img src="images/Customer_Analysis.png" width="800"/>
+<img src="images/Customer_ِِAnalysis .png" width="800"/>
 
 ### Returns Analysis
-<img src="images/Return.png" width="800"/>
+<img src="images/Return .png" width="800"/>
 
 ### Time Analysis
 <img src="images/Time.png" width="800"/>

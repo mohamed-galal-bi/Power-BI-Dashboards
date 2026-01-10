@@ -56,7 +56,8 @@ These insights support better fleet optimization and cost control decisions.
 # Over View With Filter
 <img src="images/Over View With Filter.png" width="800"/>
 
-# tool_tip_consumption_100km_fuel_cost.png
+
+#tool_tip_consumption_100km_fuel_cost.png
 <img src="tool_tip_consumption_100km_fuel_cost.png" width="800"/>
 
 # Tool Tip LM Revenue And Freight

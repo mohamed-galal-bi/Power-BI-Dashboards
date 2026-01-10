@@ -1,4 +1,4 @@
-# Power BI Dashboards
+# Data Analysis Project
 
 This repository contains Power BI dashboards created to analyze data and provide business insights.
 

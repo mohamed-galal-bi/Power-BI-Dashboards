@@ -49,3 +49,7 @@ These insights support better fleet optimization and cost control decisions.
 - Clean, business-focused visual design
 
 ## Dashboard Preview
+
+# Over View Page
+![Over View Page]{Over View Page .png}
+

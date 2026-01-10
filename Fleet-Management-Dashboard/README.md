@@ -52,20 +52,28 @@ These insights support better fleet optimization and cost control decisions.
 
 # Over View Page
 <img src="images/Over View Page .png" width="800"/>
+
 # Over View With Filter
 <img src="images/Over View With Filter.png" width="800"/>
+
 # tooltip 1
 <img src="images/tooltip 1.png" width="800"/>
+
 # tooltip 2
 <img src="images/Tooltip 2.png" width="800"/>
+
 # Truck Analysis
 <img src="images/Truck Analysis .png" width="800"/>
+
 # Truck With Filter
 <img src="images/Truck With Filter.png" width="800"/>
+
 # Freight Analysis Page
 <img src="images/Freight Analysis Page .png" width="800"/>
+
 # Freight Analysis With Filter
 <img src="images/Freight Analysis With Filter.png" width="800"/>
+
 # Drill Through Page
 <img src="images/Drill Through Page.png" width="800"/>
 

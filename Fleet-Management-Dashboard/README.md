@@ -51,5 +51,5 @@ These insights support better fleet optimization and cost control decisions.
 ## Dashboard Preview
 
 # Over View Page
-Fitness-Supplements-Dashboard/images/Customer_ِِAnalysis .png
+<img src="images/Over View Page .png" width="800"/>
 

@@ -57,7 +57,7 @@ These insights support better fleet optimization and cost control decisions.
 # tooltip 1
 <img src="images/tooltip 1.png" width="800"/>
 # tooltip 2
-<img src="Tooltip 2.png" width="800"/>
+<img src="Tooltip 2.png" width="900"/>
 # Truck Analysis
 <img src="Truck Analysis .png" width="800"/>
 # Truck With Filter
